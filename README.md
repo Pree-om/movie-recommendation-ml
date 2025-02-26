@@ -44,7 +44,6 @@ Launch the Streamlit application using:
 ```bash
 streamlit run app.py
 ```
-The app will be available at [http://localhost:8501](http://localhost:8501).
 
 ## 🎭 How to Use
 1. **Enter Your Favorite Movie** – Type the name of a movie you like.
