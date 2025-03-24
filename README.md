@@ -14,7 +14,6 @@ This system uses a dataset containing:
 - Genres
 - Descriptions & Keywords
 - Cast & Directors
-- User Ratings & Reviews
 
 These features enable the system to generate accurate and personalized recommendations.
 
