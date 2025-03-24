@@ -21,7 +21,7 @@ These features enable the system to generate accurate and personalized recommend
 - **Python** – Core programming language
 - **Pandas & NumPy** – Data manipulation
 - **Scikit-learn** – Machine learning algorithms
-- **Streamlit** – Web-based user interface
+- **Streamlit** – Web-based user interface and hosting
 
 ## 📥 Installation
 Follow these steps to set up and run the project on your system:
