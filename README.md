@@ -59,7 +59,7 @@ Want to improve the project? Follow these steps:
 Feel free to open issues for bug reports or feature requests!
 
 ## 📜 License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ## 🎥 Elevate Your Movie Experience!
 Discover films that match your taste and enjoy personalized recommendations with this intelligent system.
